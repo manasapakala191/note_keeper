@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "190194589497",
+    "project_id": "notes-believable",
+    "storage_bucket": "notes-believable.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190194589497:android:1a68dbc5f2a0f76c79d2e8",
+        "android_client_info": {
+          "package_name": "com.example.notes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190194589497-5ordtd8o9j4b0i75uhunmgpn3l3jottv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notes_app",
+            "certificate_hash": "2d63fd5ae219a80bfe5e3e40a6a1df4d8a7c3fbe"
+          }
+        },
+        {
+          "client_id": "190194589497-9lg9pihaifok17lok3schv2fll4qp60p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQGVw5Jn1yCmUzZMMHOqziwimWnaE_RWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190194589497-9lg9pihaifok17lok3schv2fll4qp60p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
